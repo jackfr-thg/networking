@@ -1,6 +1,6 @@
-#### Request and Reponse Client Side
+# Request and Reponse Client Side
 
-#### Table of Contents
+# Table of Contents
 - [Intro](#intro)
 - [HTTP Requests](#http-requests)
 - [AJAX Requests](#ajax-requests)
